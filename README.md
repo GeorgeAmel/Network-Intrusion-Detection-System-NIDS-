@@ -44,3 +44,13 @@ Use Case: The primary test for our Deep Learning models and KMeans-SMOTE cluster
 
 📈 SVM-SMOTE: Applied to focus specifically on the "danger zone" near the decision boundary.
 
+
+
+This repository provides a comprehensive implementation of a Network Intrusion Detection System (NIDS), integrating the original research paper alongside an extensive evaluation of both Machine Learning and Deep Learning  architectures. 
+
+By leveraging advanced oversampling techniques like KMeans-SMOTE and SVM-SMOTE to address class imbalances in the NSL-KDD, UNSW-NB15, and CIC-IDS2017 datasets, the project achieves high-precision threat classification, with all experimental results meticulously documented using standard performance metrics including :
+
+1-Accuracy  
+2-Precision 
+3-Recall 
+4-F1-Score.
